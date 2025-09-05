@@ -1,0 +1,1 @@
+<?php echo 'Perpustakaan STT SKRIPTURA INDONESIA'; ?>
