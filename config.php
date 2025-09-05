@@ -1,0 +1,1 @@
+<?php $config = ['fine_per_day' => 1000, 'app_name' => 'Perpustakaan STT Skriptura Indonesia']; ?>

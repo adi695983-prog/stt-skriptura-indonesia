@@ -1,0 +1,1 @@
+<?php // schema database ?>
