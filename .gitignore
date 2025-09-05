@@ -1,0 +1,6 @@
+# Database SQLite
+app/library.db
+
+# Sistem
+.DS_Store
+Thumbs.db
